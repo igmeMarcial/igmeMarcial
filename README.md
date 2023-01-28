@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Marcial Igme</h1>
 <h3 align="center">I build things for the web.</h3>
+<p>Soy un desarrollador frontend con un gran potencial y un gran deseo de aprender. Tengo una amplia gama de habilidades técnicas, 
+incluyendo HTML, CSS, JavaScript y frameworks modernos como React. Me apasiona crear 
+experiencias de usuario excepcionales y estoy constantemente buscando nuevas formas de mejorar mi arte.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
