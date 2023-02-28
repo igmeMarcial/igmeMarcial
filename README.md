@@ -4,6 +4,7 @@
 <p>Soy un desarrollador frontend con un gran potencial y un gran deseo de aprender. Tengo una amplia gama de habilidades técnicas, 
 incluyendo HTML, CSS, JavaScript y frameworks modernos como React. Me apasiona crear 
 experiencias de usuario excepcionales y estoy constantemente buscando nuevas formas de mejorar mi arte.</p>
+<p>As a programmer, I take pleasure in building digital creations that come to life on the internet. From websites to web applications, I love using my skills to create online experiences that captivate and engage users.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
