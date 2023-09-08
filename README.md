@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Marcial Igme</h1>
 <h3 align="center">I build things for the web.</h3>
-<p>Soy un desarrollador frontend con un gran potencial y un gran deseo de aprender. Tengo una amplia gama de habilidades técnicas, 
-incluyendo HTML, CSS, JavaScript y frameworks modernos como React. Me apasiona crear 
-experiencias de usuario excepcionales y estoy constantemente buscando nuevas formas de mejorar mi arte.</p>
-<p>As a programmer, I take pleasure in building digital creations that come to life on the internet. From websites to web applications, I love using my skills to create online experiences that captivate and engage users.</p>
+<p>
+I'm a frontend developer with great potential and a strong desire to learn. I possess a wide range of technical skills, including HTML, CSS, JavaScript, and modern frameworks like React. My passion lies in creating exceptional user experiences, and I'm constantly seeking new ways to refine my craft.</p>
+<p>As a programmer, I find pleasure in building digital creations that come to life on the internet. From websites to web applications, I love using my skills to create online experiences that captivate and engage users..</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
