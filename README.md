@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Marcial Igme</h1>
 <h3 align="center">I build things for the web.</h3>
 <p>
-I'm a frontend developer with great potential and a strong desire to learn. I possess a wide range of technical skills, including HTML, CSS, JavaScript, and modern frameworks like React. My passion lies in creating exceptional user experiences, and I'm constantly seeking new ways to refine my craft.</p>
-<p>As a programmer, I find pleasure in building digital creations that come to life on the internet. From websites to web applications, I love using my skills to create online experiences that captivate and engage users..</p>
+I'm a frontend developer with great potential and a strong desire to learn. While my core expertise lies in HTML, CSS, JavaScript, and modern frameworks like React, I'm also expanding my skills by diving into machine learning with Python. This new journey complements my passion for creating exceptional user experiences, allowing me to explore how data and AI can enhance digital products.</p>
+<p>As a programmer, I take pleasure in building both visually captivating websites and innovative web applications. Now, with my growing knowledge in machine learning, I'm eager to apply this to projects that combine design, development, and data-driven insights.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
