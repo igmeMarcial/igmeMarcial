@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Marcial Igme</h1>
-<h3 align="center">I build things for the web.</h3>
+<h3 align="center">AI Engineer | NLP Specialist | Data Scientist | Machine Learning</h3>
 <p>
-I'm a frontend developer with great potential and a strong desire to learn. While my core expertise lies in HTML, CSS, JavaScript, and modern frameworks like React, I'm also expanding my skills by diving into machine learning with Python. This new journey complements my passion for creating exceptional user experiences, allowing me to explore how data and AI can enhance digital products.</p>
-<p>As a programmer, I take pleasure in building both visually captivating websites and innovative web applications. Now, with my growing knowledge in machine learning, I'm eager to apply this to projects that combine design, development, and data-driven insights.</p>
+  I am an AI Engineer with a focus on Machine Learning and Natural Language Processing (NLP). I specialize in building intelligent systems and data-driven solutions that enhance user experiences. With expertise in developing machine learning models and applying NLP techniques, I work on transforming data into actionable insights and innovative AI-driven applications.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
