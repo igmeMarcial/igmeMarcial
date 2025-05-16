@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marcial Igme</h1>
 <h3 align="center">AI Developer</h3>
 <p>
-  I am an AI Engineer with a focus on Machine Learning and Natural Language Processing (NLP). I specialize in building intelligent systems and data-driven solutions that enhance user experiences. With expertise in developing machine learning models and applying NLP techniques, I work on transforming data into actionable insights and innovative AI-driven applications.
+  AI developer with a focus on Machine Learning and Natural Language Processing (NLP). I specialize in building intelligent systems and data-driven solutions that enhance user experiences. With expertise in developing machine learning models and applying NLP techniques, I work on transforming data into actionable insights and innovative AI-driven applications.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
